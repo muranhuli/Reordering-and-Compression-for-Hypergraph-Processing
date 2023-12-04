@@ -1,7 +1,7 @@
-# Reordering and Compression for Hypergraph Analysis
+# Reordering and Compression for Hypergraph Processing
 
 ## Introduction
-This repository contains the source code for the Reordering and Compression for Hypergraph Analysis project.
+This repository contains the source code for the Reordering and Compression for Hypergraph Processing project.
 
 Below is a detailed description of the function of each directory and file.
 
